@@ -1,10 +1,10 @@
 ion-content{
-    --background: #2e38ce;
+    --background: #5a5fa7;
 }
 
 ion-item{
-    --background: #e6f514;
-    --color: #fff;
+    --background: #dee0c3;
+    --color: rgb(8, 2, 2);
 }
 ion-button{
     --background: #062f77;
@@ -14,14 +14,14 @@ ion-button{
     margin-right: 50px;
 }
 ion-select{
-    --background: #062f77;
+    background: #062f77;
     font-size: 20px;
     border-radius: 20px;
     margin-left: 50px;
     margin-right: 50px;
 }
 ion-grid{
-    margin-top: 150px;
+    margin-top: 10px;
 }
 label{
     color: red;    
@@ -39,5 +39,12 @@ a{
 
 .tittle{
     margin-top: 80px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
